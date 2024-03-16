@@ -5,7 +5,7 @@ Twenty-one years ago, I embarked on a professional journey as a system analyst, 
 
 Despite the demands of my career, I prioritized my son's well-being above all else, navigating the challenges of caregiving with grace and fortitude. My role as a caregiver not only required patience and empathy but also instilled in me a profound sense of purpose and compassion.
 
-Now, as I embark on a new chapter in my life, I am pursuing a course in Data Analysis at CODE: YOU. Driven by my innate curiosity and passion for learning, I am eager to explore the vast realm of data analytics and unlock new opportunities for personal and professional growth.
+Now, as I embark on a new chapter in my life, I am pursuing a course in Data Analysis at CODE:YOU. Driven by my innate curiosity and passion for learning, I am eager to explore the vast realm of data analytics and unlock new opportunities for personal and professional growth.
 ## About Me
 - 💻 I'm passionate about coding and technology.
 - 🌱 I'm currently learning Python,SQL and Tableau.
