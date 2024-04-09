@@ -11,8 +11,7 @@ Now, as I embark on a new chapter in my life, I successfully pursued a course�
 - 🌱 I'm currently working on Python, SQLite and Tableau based projects.
 - 📫 You can reach me at lizgeorge2019@gmail.com.
   ## Projects
-- [Climate Change Data Analysis](https://github.com/ElizabethGLiz/ClimateChangeAnalysis):![ClimateJusticeClimateJusticeNowGIF (2)](https://github.com/ElizabethGLiz/ElizabethGLiz/assets/142612229/bef09df3-74ee-41c2-a499-330584dd57c4)
-The purpose of this Climate Change Data Analysis project is to analyze temperature and weather patterns over time, identify trends in greenhouse gas emissions, and predict future climate scenarios based on historical data.
+- [Climate Change Data Analysis](https://github.com/ElizabethGLiz/ClimateChangeAnalysis):The purpose of this Climate Change Data Analysis project is to analyze temperature and weather patterns over time, identify trends in greenhouse gas emissions, and predict future climate scenarios based on historical data.
   
 - [PayPal Transactions Data Analysis 2021](https://github.com/ElizabethGLiz/PaypalTransactionsDataAnalysis2021):The overview of the project "2021 PayPal Transactions Data Analysis: Categorizing and Analyzing Spending Patterns" is to gain insights into the spending habits and patterns of a household or individual throughout the year 2021 based on PayPal transaction data.
   
