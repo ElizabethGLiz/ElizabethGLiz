@@ -13,7 +13,7 @@ Now, as I embark on a new chapter in my life, I successfully pursued a courseðŸŽ
   ## Projects
 - [Climate Change Data Analysis](https://github.com/ElizabethGLiz/ClimateChangeAnalysis):The purpose of this Climate Change Data Analysis project is to analyze temperature and weather patterns over time, identify trends in greenhouse gas emissions, and predict future climate scenarios based on historical data.
   
-- [PayPal Transactions Data Analysis 2021](https://github.com/ElizabethGLiz/PaypalTransactionsDataAnalysis2021):The overview of the project "2021 PayPal Transactions Data Analysis: Categorizing and Analyzing Spending Patterns" is to gain insights into the spending habits and patterns of a household or individual throughout the year 2021 based on PayPal transaction data.
+- [PayPal Transactions Data Analysis 2021](https://github.com/ElizabethGLiz/PaypalTransactionsDataAnalysis2021):The scope of this project " PayPal Transactions Data Analysis 2021 : Categorizing and Analyzing Spending Patterns" is to gain insights into the spending habits and patterns of a household or individual throughout the year 2021 based on PayPal transaction data.
   
 - [NASA Mars Rover Driving Game](https://github.com/ElizabethGLiz/NASA_MarsRoverGame):The objective of the project, is to use Python to code a game that simulates how NASA explores Mars using rovers. This game will allow players to drive a Mars rover from one location to another while avoiding hazards.
   
