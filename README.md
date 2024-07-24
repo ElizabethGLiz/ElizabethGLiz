@@ -12,6 +12,9 @@ Data Analysis class.
 - 🌱 I'm currently working on Python, SQLite and Tableau based projects.
 - 📫 You can reach me at lizgeorge2019@gmail.com.
   ## Projects
+ -[InventoryOptimization and SustainabilityAnalysis](https://github.com/ElizabethGLiz/InventoryOptimization-and-SustainabilityAnalysis)
+The purpose of the project is to minimize waste by optimizing inventory levels, identify the most efficient purchasing strategies based on sales, procurement, and inventory data and evaluate product sales performance to formulate a sustainable inventory management approach.
+
   
 - [Climate Change Data Analysis](https://github.com/ElizabethGLiz/ClimateChangeAnalysis):The purpose of this Climate Change Data Analysis project is to analyze temperature and weather patterns over time, identify trends in greenhouse gas emissions, and predict future climate scenarios based on historical data.
   
